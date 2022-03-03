@@ -1,0 +1,22 @@
+{
+    "image2": {
+        "data": "hwQYABAAAAAAAADADwAAAAAAACzyAAAAAADAIiIPAAAAAJwrIg8AAP/Ambki8gAA/8+bGSLyAAAvL7QRIvIAAC9MJBEi8gAAz0wikSLyAADPTCKbIvL/APAsIiIi8sIPAC8iIiL8zPwALyIiQv8v8gAvIiJM9P//AMAiwiJE//8AwCLCIkL8/wDALMIiIvIPAMwswiwi8gDATCTC/CLyAMxEIswPL/IATCTywg/A/AD8/88iDwAAAAAAACwPAAAAAAAA8A8AAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "bogey"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAADw/wAAAAAAAExEDwAAAADARET0AAAAAExET0QPAAAATERERP0AAMAcREQU9AAAwEQREUFEDwDMRETExEQPAMxEREzERA/AzURE/09ED8DNTURERMTNwN0cTUTU3M3A3cwREf2/zQDMzP/0D8AMAABMRPQAAAAAAPz//wAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "spacePlane"
+    },
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgEzECAAAAACATMQIAAAAAIBMxAgAAAAAgEzECAAAAACATMQIAAAAAIBMxAgAAAAAgEzECAAAAACATMQIAAAAAIBMxAgAAAAAgEzECAAAAACATMQIAAAAAIBMxAgAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "ammo"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
